@@ -1,0 +1,2 @@
+# drive_reporter_privacy_policy
+ドライブリポーターのプライバシーポリシー公開Webページ用リポジトリ
